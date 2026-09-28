@@ -1,3 +1,3 @@
-const app = require('../index');
+import app from '../index.js';
 
-module.exports = app;
+export default app;
